@@ -1,6 +1,6 @@
 # Installation
 
-    git clone https://github.com/galanonym/.vim.git
+    git clone https://github.com/matkalis/.vim.git
     :PlugInstall (on first vim run)
 
 # Add project specific config
